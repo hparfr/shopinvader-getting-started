@@ -37,7 +37,7 @@ Odoo is an ERP system. It's the backend of shopinvader, where you manage product
 
 ## LocomotiveCMS
 
-E-commerce website: https://localhost:3000
+E-commerce website: http://localhost:3000
 
 It's the front page of the store.
 
